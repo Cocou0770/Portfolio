@@ -44,7 +44,7 @@
 
 <br>
 
-### 2. 소상공인 폐업 예측 및 AI 컨설팅 솔루션 (데이터 맛집)
+### 2. 소상공인 폐업 예측 및 AI 컨설팅 솔루션 
 **Role:** Data Analyst / ML Engineer | **Period:** 2025.09 - 2025.10
 > **한줄 요약:** 상권 빅데이터 분석(XGBoost)과 생성형 AI를 결합하여 폐업 위험 원인을 진단하고 해결책을 제시
 
@@ -88,7 +88,12 @@
 
 ---
 
-## Links
-# **Paper:**
-* **Ultrathin WS2 Polariton Waveguide for Efficient Light Guiding** [https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adom.202300069]
-* **Ultra-compact exciton polariton modulator based on van der Waals semiconductors** [https://www.nature.com/articles/s41467-024-46701-1]
+## Links (보고서)
+* [**감사 정보 통합 관리 및 초안 작성 서비스 (A.I.D) 보고서**]()
+* * [**감사 정보 통합 관리 및 초안 작성 서비스 (A.I.D) 시연영상**]()
+* [**소상공인 폐업 예측 및 AI 컨설팅 솔루션 보고서**]()
+* [**소상공인 폐업 예측 및 AI 컨설팅 솔루션 파일**]()
+
+## Paper
+* [**Ultrathin WS2 Polariton Waveguide for Efficient Light Guiding**](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adom.202300069)
+* [**Ultra-compact exciton polariton modulator based on van der Waals semiconductors**](https://www.nature.com/articles/s41467-024-46701-1)
