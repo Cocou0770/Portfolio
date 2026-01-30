@@ -23,4 +23,3 @@ BigContest/
 └─ requirements.txt                                 # 버전 통일
 
 ```
-## Baseline 실행하기
