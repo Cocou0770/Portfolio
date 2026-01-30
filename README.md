@@ -90,11 +90,11 @@
 
 ## Links (보고서)
 * **감사 정보 통합 관리 및 초안 작성 서비스 (A.I.D)**
-* * [**보고서**](https://github.com/Cocou0770/Portfolio/blob/main/AID%20%EC%84%9C%EB%B9%84%EC%8A%A4.pdf)
-* [**시연영상**](https://youtu.be/5OOfkYR8HvY)
+*    [**보고서**](https://github.com/Cocou0770/Portfolio/blob/main/AID%20%EC%84%9C%EB%B9%84%EC%8A%A4.pdf)
+*    [**시연영상**](https://youtu.be/5OOfkYR8HvY)
 * **소상공인 폐업 예측 및 AI 컨설팅 솔루션**
-* * [**보고서**](https://github.com/Cocou0770/Portfolio/blob/main/%EA%B0%80%EB%A7%B9%EC%A0%90%20%EC%9C%84%EA%B8%B0%20%EB%B6%84%EC%84%9D%20%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf)
-* * [**코드**](https://github.com/Cocou0770/Portfolio/blob/main/%EA%B0%80%EB%A7%B9%EC%A0%90%20%EC%9C%84%EA%B8%B0%20%EB%B6%84%EC%84%9D%20%EC%BD%94%EB%93%9C/notebooks/Baseline.ipynb)
+*    [**보고서**](https://github.com/Cocou0770/Portfolio/blob/main/%EA%B0%80%EB%A7%B9%EC%A0%90%20%EC%9C%84%EA%B8%B0%20%EB%B6%84%EC%84%9D%20%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf)
+*    [**코드**](https://github.com/Cocou0770/Portfolio/blob/main/%EA%B0%80%EB%A7%B9%EC%A0%90%20%EC%9C%84%EA%B8%B0%20%EB%B6%84%EC%84%9D%20%EC%BD%94%EB%93%9C/notebooks/Baseline.ipynb)
 
 ## Paper
 * [**Ultrathin WS2 Polariton Waveguide for Efficient Light Guiding**](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adom.202300069)
