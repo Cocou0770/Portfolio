@@ -32,7 +32,6 @@
 *   **ETL 파이프라인:** 감사 보고서 크롤링 및 적재 → OCR 텍스트 추출 → 메타데이터 정의(감사 사례, 감사 처분) 및 엔티티 추출 AI agent 활용 → DB 적재의 전 과정 자동화 (n8n 활용).
 *   **데이터 정제:** 감사 보고서에서 엔티티를 추출하는 과정을 보고서 개요 정보 추출 -> 보고서 목차 분석 및 문서 분할 -> 세부 감사 사례 정보 추출 3 단계의 AI agent 활용
 *   **RAG 최적화:** 단순 벡터 검색의 한계를 보완하기 위해 **Hybrid Search (Keyword + Vector)**와 **Multi-Query** 기법 도입.
-*   **재정렬(Rerank):** Reranker를 적용하여 검색 결과의 관련성을 재조정, 문맥 파악 능력 강화.
 *   **평가 시스템:** `Opik`과 `Ragas`를 도입하여 답변의 Hallucination,Faithfulness,Answer Relevancy,Answer Relevance 를 모니터링.
 
 **[Result] 신뢰 가능한 도메인 특화 챗봇 구현**
